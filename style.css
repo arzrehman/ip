@@ -1,1 +1,59 @@
-
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+    text-align: left;
+  }
+  h1:hover{
+    color: #337ab7;
+  }
+  
+  a {
+    color: #337ab7;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    font-style: italic;
+    color: #999;
+  }
+  
+  h2 {
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: square;
+  }
+  
+  progress {
+    width: 40%;
+    height: 20px;
+  }
+  
+  details {
+    margin-top: 20px;
+  }
+  
+  summary {
+    cursor: pointer;
+  }
+  
+  img {
+   
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
